@@ -156,6 +156,7 @@ class ProductsProvider with ChangeNotifier {
             'ImageUrl': x.imageUrl,
             'Price': x.price,
             "CreatorId": useriD
+           
           }));
 
       final newProduct = Products(
@@ -164,6 +165,7 @@ class ProductsProvider with ChangeNotifier {
         imageUrl: x.imageUrl,
         price: x.price,
         title: x.title,
+
       );
 
       itemss.add(newProduct);
