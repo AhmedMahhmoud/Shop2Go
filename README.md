@@ -1,6 +1,9 @@
-# A flutter project that provide different products to the user  , user can :
-# Full authentication login , ADD /Remove/Update  the cart, Favorite items , Place an order, View his orders ,Search for a product and manage them.
-
+# Online products managment app 
+# Full authentication login 
+# ADD /Remove/Update  the cart
+# Favorite/Unfavorite items
+# Place/view an order
+# Search for a product
 
 
 
